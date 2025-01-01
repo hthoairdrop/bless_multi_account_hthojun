@@ -1,5 +1,5 @@
 # Blockless Bless Network Bot 
-# Vietnamese below
+## [Vietnamese below]
 ## Description
 This script automates network or node operations for Blockless Bless Network Bot.
 
@@ -102,8 +102,11 @@ This script automates network or node operations for Blockless Bless Network Bot
 **NOTE 2: this repo copy left from: https://github.com/Zlkcyber/bless-bot.git**
 
 
+
+
+
 # Blockless Bless Network Bot
-# Tiếng Việt bên dưới
+
 ## Mô tả
 Script này tự động hóa các hoạt động mạng hoặc nút cho Blockless Bless Network Bot.
 
@@ -165,21 +168,21 @@ node setup.js
 
 nếu bạn có 2 tài khoản và 10 id, bạn phải sao chép token này x5 lần
 ví dụ
+
     ```
-    tệp user.txt
+    file user.txt
     token1
     token1
     token1
     token1
     token1
-    token2
     token2
     token2
     token2
     token2
     token2
 
-    tệp id
+    file id
     id1a
     id1b
     id1c
